@@ -1,2 +1,0 @@
-File to understand pull when theres a commit in the branch that we would like to 
-assign the pull
