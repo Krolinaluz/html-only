@@ -47,6 +47,8 @@ main{
 }
 main img{
     margin-bottom: 20px;
+    height: 200px;
+    width: 250px;
 }
 .content-projects-preview{
     padding: 2%;
