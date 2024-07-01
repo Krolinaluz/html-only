@@ -3,7 +3,6 @@ html{
 }
 body{
     height: 100%;
-    background-color: #FFE6E6 ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
 }
@@ -14,6 +13,7 @@ h2{
     color: #70D4B4;
 }
 h3{
+    margin-top: 5px;
     margin-bottom: 5px;
 }
 h3 a{
@@ -32,7 +32,6 @@ hr.custom {
 }
 header{
     background-color: white;
-    height: 10%;
 }
 header > h1{
     margin: 0px;
@@ -40,18 +39,21 @@ header > h1{
 }
 header > h2{
     margin-top: 0px;
+    margin-bottom: 3px;
     padding-left: 3%;
 }
 main{
-    padding-left: 2%;
-    height: 70%;
+    background-color: #FFE6E6 ;
 }
 main img{
     margin-bottom: 20px;
 }
+.content-projects-preview{
+    padding: 2%;
+}
 footer{
     background-color: white;
-    height: 20%;
+
 }
 footer > h4{
     padding-left: 45%;
